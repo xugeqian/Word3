@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Word3</string>
+
+    <string name="title">个人标准身高计算器</string>
+    <string name="text1">请输入你的体重:</string>
+    <string name="text2">请选择你的性别:</string>
+    <string name="checkbox1">男</string>
+    <string name="checkbox2">女</string>
+    <string name="button">运算</string>
+    <string name="action_settings">Settings</string>
+</resources>
